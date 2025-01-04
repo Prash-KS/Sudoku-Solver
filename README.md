@@ -5,14 +5,19 @@ Solve Sudoku puzzles in real-time using computer vision, deep learning, and Pyth
 # Features
 
 Real-Time Detection: Capture Sudoku grids directly from a webcam.
+
 Digit Recognition: Uses a Convolutional Neural Network (CNN) for accurate digit classification.
+
 Puzzle Solving: Implements a backtracking algorithm to solve the Sudoku puzzle efficiently.
+
 Output: Generates a PNG file with the solved Sudoku overlaid on the original grid.
 
 # Tech Stack
 
 Programming Language: Python
+
 Libraries: OpenCV, NumPy, TensorFlow/Keras (for CNN), Matplotlib
+
 Algorithm: Backtracking for puzzle solving
 
 # Example Output
@@ -25,5 +30,7 @@ Algorithm: Backtracking for puzzle solving
 # Future Enhancements
 
 Improve digit recognition accuracy with larger datasets.
+
 Add support for handwritten Sudoku grids.
+
 Deploy as a web or mobile application for wider accessibility.
