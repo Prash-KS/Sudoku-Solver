@@ -23,7 +23,7 @@ Algorithm: Backtracking for puzzle solving
 # Example Output
 
 <p align="center">
-  <img src="Images/unsolved.png" alt="Input (Captured by Webcam)" width="200"/>
+  <img src="Images/unsolved.PNG" alt="Input (Captured by Webcam)" width="200"/>
   <img src="Images/solved.png" alt="Output (Solved Sudoku)" width="200"/>
 </p>
 
